@@ -1,0 +1,82 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "com.nahamcon2024.kittykittybangbang.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "res",
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "values",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "com",
+      "Source code",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "nahamcon2024.kittykittybangbang",
+      "com",
+      "Source code",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "lib",
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ],
+    [
+      "x86_64",
+      "lib",
+      "Resources",
+      "com.nahamcon2024.kittykittybangbang.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "res/values/strings.xml",
+      "subPath": "",
+      "caret": 0,
+      "view": {
+        "x": 0,
+        "y": 1678
+      }
+    },
+    {
+      "type": "class",
+      "tabPath": "com.nahamcon2024.kittykittybangbang.MainActivity",
+      "subPath": "java",
+      "caret": 2300,
+      "view": {
+        "x": 0,
+        "y": 848
+      }
+    }
+  ],
+  "activeTab": 1,
+  "cacheDir": "com.nahamcon2024.kittykittybangbang.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}

@@ -1,0 +1,50 @@
+{
+  "projectVersion": 1,
+  "files": [
+    "com.nahamcon2024.guitar.apk"
+  ],
+  "treeExpansions": [
+    [
+      "Resources",
+      "com.nahamcon2024.guitar.apk"
+    ],
+    [
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.guitar.apk"
+    ],
+    [
+      "res",
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.guitar.apk"
+    ],
+    [
+      "values",
+      "res",
+      "resources.arsc",
+      "Resources",
+      "com.nahamcon2024.guitar.apk"
+    ]
+  ],
+  "codeData": {
+    "comments": [],
+    "renames": []
+  },
+  "openTabs": [
+    {
+      "type": "resource",
+      "tabPath": "res/values/strings.xml",
+      "subPath": "",
+      "caret": 4614,
+      "view": {
+        "x": 0,
+        "y": 684
+      }
+    }
+  ],
+  "activeTab": 0,
+  "cacheDir": "com.nahamcon2024.guitar.apk.cache",
+  "enableLiveReload": false,
+  "searchHistory": []
+}
